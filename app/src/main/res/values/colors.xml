@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--  <color name="colorPrimary">#066e8a</color>
+    <color name="colorPrimaryDark">#066e8a</color>-->
+
+    <color name="colorPrimary">#ccad00</color>
+    <color name="colorPrimaryDark">#f5d000</color>
+
+
+    <color name="colorAccent">#000000</color>
+
+  <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#8a8a8a</color>
+
+    <color name="gray2">#EDEDED</color>
+
+  <!--&#45;&#45;color__gro1: #ccad00;
+  &#45;&#45;color__gro2: #f5d000;
+  &#45;&#45;color__gro3: #f8cb46;
+  &#45;&#45;color__gro4: #ffea70;
+  &#45;&#45;color__gro5: #fff099;
+  &#45;&#45;color__gro6: #fff3ab;
+  &#45;&#45;color__gro7: #fff6c2;
+  &#45;&#45;color__gro8: #fffceb;
+  &#45;&#45;color__grc1: #000000;
+  &#45;&#45;color__grc2: #666666;
+  &#45;&#45;color__grc3: #999999;
+  &#45;&#45;color__grc4: #cccccc;
+  &#45;&#45;color__grc5: #dddddd;
+  &#45;&#45;color__grc6: #eeeeee;
+  &#45;&#45;color__grc7: #f2f2f2;
+  &#45;&#45;color__grc8: #fcfcfc;
+  &#45;&#45;color__grc9: #ffffff;
+  &#45;&#45;color__grc10: #f7f7f7;
+  &#45;&#45;color__grg1: #0c831f;
+  &#45;&#45;color__grg2: #459220;
+  &#45;&#45;color__grg3: #54b226;
+  &#45;&#45;color__grg4: #73c04d;
+  &#45;&#45;color__grg5: #92ce74;
+  &#45;&#45;color__grg6: #b1dc9c;
+  &#45;&#45;color__grg7: #d0eac3;
+  &#45;&#45;color__grg8: #ecffec;
+  &#45;&#45;color__grr1: #be2e2e;
+  &#45;&#45;color__grr2: #d23333;
+  &#45;&#45;color__grr3: #e73838;
+  &#45;&#45;color__grr4: #eb5c5c;
+  &#45;&#45;color__grr5: #f6787a;
+  &#45;&#45;color__grr6: #f4a4a4;
+  &#45;&#45;color__grr7: #ffdfdf;
+  &#45;&#45;color__grr8: #fff5f5;-->
+</resources>
